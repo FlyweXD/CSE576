@@ -13,8 +13,8 @@ Project 2 mainly support corner-finding, homography matrix, non-maximum supressi
 Project 3 includes several helper functions of content-based image retrieval system.
 
 ## Example
-![](img/flower.png "color clustering")
-![](img/stitch.png "panorama by stitching")
-![](img/CBIR.png "content based image retrieval")
+![](img/flower.PNG "color clustering")
+![](img/stitch.PNG "panorama by stitching")
+![](img/CBIR.PNG "content based image retrieval")
 
 
