@@ -1,7 +1,8 @@
 # CSE576
 
 ## Intro
-In this repo, I included three computer vision projects. Every project has several image processing functions you can use as a library.
+In this repo, I included three computer vision projects when I took the [CV course](https://courses.cs.washington.edu/courses/cse576/19sp/) from UW. Every project has several image processing functions you can use as a library.
+
 
 ## Feature
 1. C++
